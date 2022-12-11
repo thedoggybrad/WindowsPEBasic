@@ -29,4 +29,7 @@ Why I created this?
 Instead of you downloading Windows ADK and its Windows PE add-on and the compiling the output, I decided to upload a compiled version already for everyone to use.
 <br>
 <br>
+Resource I used to create this: https://youtu.be/HBFukw1hkKY
+<br>
+<br>
 More about Windows PE: https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-intro?view=windows-11#hardware-requirements

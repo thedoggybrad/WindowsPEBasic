@@ -18,7 +18,7 @@ WindowsPEBasic
 <br>
 <img src="/WinPE.png">
 <br>
-Screenshot provided by Microsoft Corporation.
+<p>Screenshot provided by ©Microsoft Corporation.<p>
 <br>
 <br>
 Download Link: https://github.com/thedoggybrad/WindowsPEBasic/releases/download/WinPEBasic/WindowsPEBasic.iso

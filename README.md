@@ -16,6 +16,8 @@ WindowsPEBasic
 <br>
 -Can be used for troubleshooting and fixing broken Windows Installations
 <br>
+-Compatible with incompatible devices that are incompatible to Windows 11
+<br>
 <img src="https://thedoggybrad.github.io/WindowsPEBasic/WinPE.png">
 <br>
 Screenshot provided by ©Microsoft Corporation.

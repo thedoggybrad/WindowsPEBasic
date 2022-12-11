@@ -39,4 +39,4 @@ Instead of you downloading Windows ADK and its Windows PE add-on and the compili
 Resource I used to create this: https://youtu.be/HBFukw1hkKY
 <br>
 <br>
-More about Windows PE: https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-intro?view=windows-11#hardware-requirements
+More about Windows PE: https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-intro?view=windows-11

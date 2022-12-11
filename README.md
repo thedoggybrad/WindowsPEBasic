@@ -16,7 +16,7 @@ WindowsPEBasic
 <br>
 -Can be used for troubleshooting and fixing broken Windows Installations
 <br>
-<img src="/WinPE.png">
+<img src="https://thedoggybrad.github.io/WindowsPEBasic/WinPE.png">
 <br>
 Screenshot provided by ©Microsoft Corporation.
 <br>

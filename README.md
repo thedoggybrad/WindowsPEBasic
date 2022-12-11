@@ -8,7 +8,7 @@ WindowsPEBasic
 <br>
 -Uses CMD as its user interface (But can access files some GUI apps)
 <br>
--Can access some Windows Tools like Diskpart, SFC, DISM, Notepad and many more....
+-Can access some Windows Tools like Diskpart, SFC, DISM, Notepad, Registry Editor and many more....
 <br>
 -Created using Windows ADK + Windows PE Addon
 <br>

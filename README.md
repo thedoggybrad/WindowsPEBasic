@@ -21,7 +21,7 @@ Download Link: https://github.com/thedoggybrad/WindowsPEBasic/releases/download/
 <br>
 <br>
 <br>
-Note: It is not Windows Recovery Environment. It is just the Windows PE.
+Note: It is not the Windows Recovery Environment. It is just the Windows PE.
 <br>
 <br>
 Why I created this?

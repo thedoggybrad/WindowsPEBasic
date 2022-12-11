@@ -4,8 +4,6 @@ It is a barebones Windows 11 22H2 Pre-installation Environment (PE).
 <br>
 WindowsPEBasic
 <br>
-<img src="/WinPE.png">
-<br>
 -Based on Windows 11 22H2 PE.
 <br>
 -Uses CMD as its user interface (But can access files some GUI apps)
@@ -18,6 +16,9 @@ WindowsPEBasic
 <br>
 -Can be used for troubleshooting and fixing broken Windows Installations
 <br>
+<img src="/WinPE.png">
+<br>
+Screenshot provided by Microsoft Corporation.
 <br>
 Download Link: https://github.com/thedoggybrad/WindowsPEBasic/releases/download/WinPEBasic/WindowsPEBasic.iso
 <br>

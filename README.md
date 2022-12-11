@@ -23,7 +23,7 @@ Note: It is not Windows Recovery Environment. It is just the Windows PE.
 <br>
 Why I created this?
 <br>
-Instead of you downloading Windows ADK and its Windows PE add-on. I decided to upload a compiled version already for everyone to use.
+Instead of you downloading Windows ADK and its Windows PE add-on and the compiling the output, I decided to upload a compiled version already for everyone to use.
 <br>
 <br>
 More about Windows PE: https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-intro?view=windows-11#hardware-requirements

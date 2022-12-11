@@ -24,6 +24,9 @@ Screenshot provided by ©Microsoft Corporation.
 Download Link: https://github.com/thedoggybrad/WindowsPEBasic/releases/download/WinPEBasic/WindowsPEBasic.iso
 <br>
 <br>
+It can run fine even on devices incompatible with Windows 11. It is just Windows PE not the regular Windows installation. All you need is a 64 bit processor. It does not need a UEFI BIOS to run.
+<br>
+<br>
 <br>
 Note: It is not the Windows Recovery Environment. It is just the Windows PE.
 <br>

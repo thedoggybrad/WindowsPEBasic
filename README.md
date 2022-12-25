@@ -45,6 +45,21 @@ In order for WindowsPEBasic to run here is the needed minimum system requirement
 •A 64-bit Legacy BIOS or 64-bit UEFI BIOS
 <br>
 <br>
+## Optimal System Configuration
+WindowsPEBasic can run with the minimum system requirements, but it is may not deliver a good experience. So here is the optimal configuration for running Windows PEBasic:
+<br>
+<br>
+•2GHZ Dual Core Processor
+<br>
+•2GB of RAM
+<br>
+•1GB of Removable Storage
+<br>
+•A monitor with a resolution of 1280 x 1024
+<br>
+•A 64-bit Legacy BIOS or 64-bit UEFI BIOS
+<br>
+<br>
 ## Why I created this?
 Instead of you downloading Windows ADK and its Windows PE add-on and the compiling the output, I decided to upload a compiled version already for everyone to use.
 <br>

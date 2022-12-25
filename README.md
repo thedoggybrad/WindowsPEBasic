@@ -55,7 +55,7 @@ WindowsPEBasic can run with the minimum system requirements, but it is may not d
 <br>
 •1GB of Removable Storage
 <br>
-•A monitor with a resolution of 1280 x 1024
+•A monitor with a resolution of 1280x1024
 <br>
 •A 64-bit Legacy BIOS or 64-bit UEFI BIOS
 <br>

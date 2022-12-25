@@ -31,8 +31,22 @@ Download Link: https://github.com/thedoggybrad/WindowsPEBasic/releases/download/
 Note: It is not the Windows Recovery Environment. It is just the Windows PE.
 <br>
 <br>
-## Why I created this?
+## System Requirements
+WindowsPEBasic has the same requirements as Windows 10 with these exceptions:
 <br>
+<br>
+•No hard drive is required. You can run Windows PE entirely from memory.
+<br>
+•The base version requires only 512MB of memory. (If you add drivers, packages, or apps, you'll need more memory.)
+<br>
+•In order to boot Windows PE directly from memory (also known as RAM disk boot), a contiguous portion of physical memory (RAM) which can hold the entire Windows PE (WIM) image must be available. To optimize memory use, manufacturers should ensure that their firmware reserves memory locations either at the beginning or at the end of the physical memory address space.
+<br>
+•The 32-bit version of Windows PE can boot 32-bit UEFI and BIOS PCs, and 64-bit BIOS PCs.
+<br>
+•The 64-bit version of Windows PE can boot 64-bit UEFI and BIOS PCs.
+<br>
+<br>
+## Why I created this?
 Instead of you downloading Windows ADK and its Windows PE add-on and the compiling the output, I decided to upload a compiled version already for everyone to use.
 <br>
 <br>

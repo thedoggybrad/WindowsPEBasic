@@ -24,7 +24,7 @@ Screenshot provided by ©Microsoft Corporation.
 <br>
 <br>
 ## Download
-Download Link: https://github.com/thedoggybrad/WindowsPEBasic/releases/download/WinPEBasic/WindowsPEBasic.iso
+Download Link (340MB): https://github.com/thedoggybrad/WindowsPEBasic/releases/download/WinPEBasic/WindowsPEBasic.iso
 <br>
 <br>
 Note: It is not the Windows Recovery Environment. It is just the Windows PE.

@@ -30,19 +30,19 @@ Download Link: https://github.com/thedoggybrad/WindowsPEBasic/releases/download/
 Note: It is not the Windows Recovery Environment. It is just the Windows PE.
 <br>
 <br>
-## System Requirements
-WindowsPEBasic has the same requirements as Windows 10 with these exceptions:
+## Minimum System Requirements
+In order for WindowsPEBasic to run here is the needed minimum system requirements:
 <br>
 <br>
-•No hard drive is required. You can run Windows PE entirely from memory.
+•1GHZ Single Core Processor
 <br>
-•It requires only 512MB of memory.
+•512MB of RAM
 <br>
-•In order to boot Windows PE directly from memory (also known as RAM disk boot), a contiguous portion of physical memory (RAM) which can hold the entire Windows PE (WIM) image must be available. 
+•512MB of Removable Storage
 <br>
-•The 32-bit version of Windows PE can boot 32-bit UEFI and BIOS PCs, and 64-bit BIOS PCs.
+•A monitor with a resolution of 800x600
 <br>
-•The 64-bit version of Windows PE can boot 64-bit UEFI and BIOS PCs.
+•A 64-bit Legacy BIOS or 64-bit UEFI BIOS
 <br>
 <br>
 ## Why I created this?

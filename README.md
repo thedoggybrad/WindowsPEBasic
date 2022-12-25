@@ -36,9 +36,9 @@ WindowsPEBasic has the same requirements as Windows 10 with these exceptions:
 <br>
 •No hard drive is required. You can run Windows PE entirely from memory.
 <br>
-•The base version requires only 512MB of memory. (If you add drivers, packages, or apps, you'll need more memory.)
+•It requires only 512MB of memory.
 <br>
-•In order to boot Windows PE directly from memory (also known as RAM disk boot), a contiguous portion of physical memory (RAM) which can hold the entire Windows PE (WIM) image must be available. To optimize memory use, manufacturers should ensure that their firmware reserves memory locations either at the beginning or at the end of the physical memory address space.
+•In order to boot Windows PE directly from memory (also known as RAM disk boot), a contiguous portion of physical memory (RAM) which can hold the entire Windows PE (WIM) image must be available. 
 <br>
 •The 32-bit version of Windows PE can boot 32-bit UEFI and BIOS PCs, and 64-bit BIOS PCs.
 <br>

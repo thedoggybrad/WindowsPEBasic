@@ -1,7 +1,6 @@
 # WindowsPEBasic
 It is a barebones Windows 11 22H2 Pre-installation Environment (PE).
 <br>
-<br>
 ## Introduction
 Windows PE Basic
 <br>

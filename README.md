@@ -1,3 +1,6 @@
+### Notice
+This project has been succeeded by my project named "Windows PE Basic Enhanced" that is located on https://github.com/thedoggybrad/WindowsPEBasicEnhanced/. Now it comes with new custom tools and it is now based on Windows 11 PE 24H2 (Windows ADK May 2024). But this project will still work just fine, so you may still use this even the successor had replaced this project.
+
 # WindowsPEBasic
 A Pre-installation Environment for Windows based on Windows 11 PE.
 <br>
